@@ -2,9 +2,9 @@
 
 # Feramentas
 <li>Kali Linux</li>
-<li>setoolkit
+<li>setoolkit</li>
 
-#Configurando o Phishing no Kali Linux
+# Configurando o Phishing no Kali Linux
   
 <li>Acesso root: sudo su</li>
 <li>Iniciando o setoolkit: setoolkit</li>
