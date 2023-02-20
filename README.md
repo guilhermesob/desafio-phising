@@ -6,13 +6,14 @@
 
 # Configurando o Phishing no Kali Linux
   
-<li>Acesso root: ``` sudo su ```</li>
-<li>Iniciando o setoolkit:  ```setoolkit```</li>
-<li>Tipo de ataque:  ```Social-Engineering Attacks```</li>
-<li>Vetor de ataque: ``` Web Site Attack Vectors```</li>
-<li>Método de ataque:  ```Credential Harvester Attack Method```</li> 
-<li>Método de ataque:  ```Site Cloner```</li>
-<li>Obtendo o endereço da máquina: ``` ifconfig```</li>
-<li>URL para clone: http://www.facebook.com</li>
+- Acesso root:  ``` sudo su ```
+- Iniciando o setoolkit:  ```setoolkit```
+- Tipo de ataque:  ```Social-Engineering Attacks```
+- Vetor de ataque: ``` Web Site Attack Vectors```
+- Método de ataque:  ```Credential Harvester Attack Method```
+- Método de ataque:  ```Site Cloner```
+- Obtendo o endereço da máquina: ``` ifconfig```
+- URL para clone: http://www.facebook.com
 
-# Resultados
+## Resultados
+![Alt text](./img.png "Optional title")
