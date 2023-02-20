@@ -14,3 +14,5 @@
 <li>Método de ataque: Site Cloner</li>
 <li>Obtendo o endereço da máquina: ifconfig</li>
 <li>URL para clone: http://www.facebook.com</li>
+
+# Resultados
